@@ -1,4 +1,16 @@
-## Hi there 👋
+## ( . _ .) /  
+
+About me ... 
+- 1st Year BS in Computer Science, Major in Network & Information Security
+- Currently learning C & Java
+- Professional interests: web development, data science & ethical hacking
+- Hobbies: Reading, writing, art, & music
+
+Programming Goals 
+- Build personal website
+- Learn industry standard languages
+- Create full-scale projects
+- Survive BS Computer Science degree (in one piece) 
 
 <!--
 **n-abog/n-abog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
